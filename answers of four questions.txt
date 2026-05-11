@@ -1,0 +1,8 @@
+1ST Question: What’s the % diff between May 22’ and June 22’?
+Answer = - 3.7 %
+2ND Question : What’s the weekday with the highest average revenue?
+Answer = TUESDAY
+3rd Question: Which are the top 5 customers by revenue for June 2022 ?
+Answer= 137,144,148,178,526
+4th Question : Which is the month with the most unique customers?
+Answer= May
